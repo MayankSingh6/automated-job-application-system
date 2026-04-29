@@ -108,10 +108,10 @@ The system runs daily and performs:
 ### 🔁 Workflow
 
 ### ⚙️ n8n Pipeline
-![n8n Flow](images/image1.png)
+![n8n Flow](image1.png)
 
 ### 📊 Output (Google Sheets)
-![Output](images/image2.png)
+![Output](image2.png)
 
 
 
