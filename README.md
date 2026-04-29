@@ -105,7 +105,15 @@ The system runs daily and performs:
 
 ## 📸 Screenshots
 
-> Add screenshots from your PDF here (workflow, output sheet, etc.)
+### 🔁 Workflow
+
+### ⚙️ n8n Pipeline
+![n8n Flow](images/image1.png)
+
+### 📊 Output (Google Sheets)
+![Output](images/image2.png)
+
+
 
 ---
 
