@@ -44,10 +44,10 @@ The system runs daily and performs:
 ## 🔄 Workflow Architecture
 
 ### Step 1 — Trigger
-- Runs automatically every day at noon :contentReference[oaicite:0]{index=0}  
+- Runs automatically every day at noon  
 
 ### Step 2 — Job Scraping
-- Scrapes jobs from Indeed using filters (role, location, etc.) :contentReference[oaicite:1]{index=1}  
+- Scrapes jobs from Indeed using filters (role, location, etc.) 
 - Extracts:
   - Title  
   - Company  
@@ -62,7 +62,7 @@ The system runs daily and performs:
   - Company name  
   - Job description  
   - Benefits  
-  - Location :contentReference[oaicite:2]{index=2}  
+  - Location 
 
 ---
 
@@ -71,7 +71,7 @@ The system runs daily and performs:
 - Outputs a score (0–5) based on:
   - Skill match  
   - Experience level  
-  - Role relevance :contentReference[oaicite:3]{index=3}  
+  - Role relevance 
 
 ---
 
@@ -79,8 +79,7 @@ The system runs daily and performs:
 - Generates a **custom cover letter for each job**  
 - Uses:
   - Job description  
-  - Candidate resume :contentReference[oaicite:4]{index=4}  
-
+  - Candidate resume 
 ---
 
 ### Step 6 — Data Storage
@@ -90,7 +89,7 @@ The system runs daily and performs:
   - Description  
   - Link  
   - AI score  
-  - Generated cover letter :contentReference[oaicite:5]{index=5}  
+  - Generated cover letter 
 
 ---
 
@@ -123,7 +122,7 @@ The system runs daily and performs:
 ✔ AI-based job filtering  
 ✔ Personalized cover letter generation  
 ✔ Daily scheduled execution  
-✔ Cost-efficient scraping (controlled API usage) :contentReference[oaicite:6]{index=6}  
+✔ Cost-efficient scraping (controlled API usage) 
 
 ---
 
